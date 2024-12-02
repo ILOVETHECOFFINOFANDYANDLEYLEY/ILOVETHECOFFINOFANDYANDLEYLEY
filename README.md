@@ -1,4 +1,5 @@
-- Hi I'm Error
-- currently learning lua 
-- my discord is "error_v7"
+-  I'm Error
+- currently learning lua
+- the main project I'm working on is cslling "unstability"
+- my discord is "error_v7" (in case you ever want to reach me)
 -  Pronouns: she/her
