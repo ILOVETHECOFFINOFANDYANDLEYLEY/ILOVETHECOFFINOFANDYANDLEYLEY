@@ -1,5 +1,5 @@
 -  I'm Error
 - currently learning lua
-- the main project I'm working on is cslling "unstability"
+- the main project I'm working on is called "unstability"
 - my discord is "error_v7" (in case you ever want to reach me)
 -  Pronouns: she/her
